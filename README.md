@@ -29,7 +29,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a React Native  develepor at [Wisevision Solutions](https://wisevision.dev/).
 - :seedling: Exploring Cloud Computing.
 - :mailbox: For work opportunities, you can contact me at syedaoun.dev@gmail.com
