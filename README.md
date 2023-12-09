@@ -27,7 +27,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
 I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m a Mobile Application Developer at [Wisevision Solutions](https://wisevision.dev/).
