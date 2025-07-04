@@ -30,7 +30,7 @@
 ### About Me :
 
 I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m a Mobile Application Developer at [MetaXols](https://metaxols.com/).
+- :telescope: I’m a Mobile Application Developer .
 - :mailbox: For work opportunities, you can contact me at syedaoun.dev@gmail.com
 ---
 ## :hammer_and_wrench: Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/aounnaqvi173/my-stack)
